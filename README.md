@@ -1,7 +1,7 @@
-![Junior frontend developer](https://media.licdn.com/dms/image/C4D16AQFyedqYcIRqtg/profile-displaybackgroundimage-shrink_200_800/0/1646322764564?e=2147483647&v=beta&t=n62tbh4VVwur95QeAmpnYBM1zTlGqyexn7WAxdL-y0E)
-
 # Hi there, I'm Vilde🤓
 ## Junior frontend developer
+
+![Junior frontend developer](https://media.licdn.com/dms/image/C4D16AQFyedqYcIRqtg/profile-displaybackgroundimage-shrink_200_800/0/1646322764564?e=2147483647&v=beta&t=n62tbh4VVwur95QeAmpnYBM1zTlGqyexn7WAxdL-y0E)
 
 I'm a front-end junior with an insatiable appetite for learning. I'm armed with my freshly acquired front-end development education and ready to conquer the digital world!
 
