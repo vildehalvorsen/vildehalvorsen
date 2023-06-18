@@ -34,3 +34,12 @@ I'm a frontend junior with an insatiable appetite for learning. I'm armed with m
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
 
+
+## Projects
+
+### Project Exam 2
+
+### Semester Project 2
+
+### JS Frameworks Course Assignment
+
