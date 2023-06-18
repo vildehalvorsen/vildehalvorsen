@@ -38,8 +38,10 @@ I'm a frontend junior with an insatiable appetite for learning. I'm armed with m
 ## Projects
 
 ### Project Exam 2
+<a href="https://github.com/vildehalvorsen/vilde-halvorsen-semester-project-2">Code</a>
 
 ### Semester Project 2
+<a href="https://github.com/vildehalvorsen/vilde-halvorsen-semester-project-2">Code</a>
 
 ### JS Frameworks Course Assignment
 
