@@ -34,16 +34,14 @@ I'm a frontend junior with an insatiable appetite for learning. I'm armed with m
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> 
 
-![<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> ](https://www.adobe.com/products/xd.html)
-
 ## Projects
 
 ### Project Exam 2
 [Code](https://github.com/vildehalvorsen/project-exam-2/) | [Live site](https://hwuapp.netlify.com/)
 
 ### Semester Project 2
-[Code](https://github.com/vildehalvorsen/project-exam-2/)
+[Code](https://github.com/vildehalvorsen/semester-project-2)
 
 ### JS Frameworks Course Assignment
-[Code](https://github.com/vildehalvorsen/project-exam-2/)
+[Code](https://github.com/vildehalvorsen/js-frameworks-ca)
 
