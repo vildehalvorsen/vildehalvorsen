@@ -1,6 +1,6 @@
 # Hi there, I'm Vilde <img src='gitme.png' alt='avatar' height='300' style='float: right'/>
 
-## Junior frontend developer 
+## 👶Junior frontend developer 
 I'm a frontend junior with an insatiable appetite for learning. I'm armed with my freshly acquired front-end development education and ready to conquer the digital world! You know that strangely satisfying feeling of immersing yourself in code? Well, I thrive on it. I can spend hours in a focused state, battling those pesky bugs and tweaking on every detail to make the code as neat as possible.
 
 
