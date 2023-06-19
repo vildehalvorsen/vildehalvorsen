@@ -7,13 +7,13 @@ I'm a frontend junior with an insatiable appetite for learning. I'm armed with m
 
 
 ### 👩‍💻Tech
-HTML
-JavaScript
-CSS
-SASS 
-React
-Bootstrap 
-Wordpress
+HTML <br/>
+JavaScript <br/>
+CSS <br/>
+SASS <br/>
+React <br/>
+Bootstrap <br/>
+Wordpress 
 
 ### 👩‍🔧Tools 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="20" height="20"/> Photoshop <br/>
