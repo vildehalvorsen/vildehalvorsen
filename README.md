@@ -20,11 +20,11 @@ Wordpress as REST API
 ## 🏗Projects
 
 ### Project Exam 2
-[Code](https://github.com/vildehalvorsen/project-exam-2/) | [Live site](https://hwuapp.netlify.com/)
+[Repo](https://github.com/vildehalvorsen/project-exam-2/) | [Live site](https://hwuapp.netlify.com/)
 
 ### Semester Project 2
-[Code](https://github.com/vildehalvorsen/semester-project-2)
+[Repo](https://github.com/vildehalvorsen/semester-project-2)
 
 ### JS Frameworks Course Assignment
-[Code](https://github.com/vildehalvorsen/js-frameworks-ca)
+[Repo](https://github.com/vildehalvorsen/js-frameworks-ca)
 
